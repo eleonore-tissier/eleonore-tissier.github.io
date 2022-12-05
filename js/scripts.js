@@ -29,6 +29,6 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 $(function(){
-  $("#header").load("header.html"); 
+  $("#mainNav").load("header.html"); 
   $("#footer").load("footer.html"); 
 });
